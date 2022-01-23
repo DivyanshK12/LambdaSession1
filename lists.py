@@ -22,6 +22,6 @@ twos = [2 * x for x in ones] # [2, 4, 6, 8, 10]
 
 # Nested Lists
 nested = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
-print(nested[1][1]) # 5
+#print(nested[1][1]) # 5
 
 # To find more, use help(list) or google search any feature you wish to know more about
